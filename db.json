@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Womens Stylish Black Leather Jacket",
+      "price": 79.0,
+      "description": "Photo credit: Ali Karimiboroujeni on Unsplash. Stunning black jacket, real leather. A wardrobe must have.",
+      "image": "https://images.unsplash.com/photo-1602370463198-086436840055?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+      "status": "active",
+      "category": "womens clothing"
+    },
+    {
+      "id": 2,
+      "title": "Womens Red Full Evening Gown",
+      "price": 129.0,
+      "description": "Photo credit: R N on Unsplash. A classy gown to wear to an evening at a fancy restaurant or the races.",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=483&q=80",
+      "status": "active",
+      "category": "womens clothing"
+    },
+    {
+      "id": 3,
+      "title": "Soft Blue Summer Dress Full Length Gown",
+      "price": 89.0,
+      "description": "Photo credit: James Lewis on Unsplash. A beautiful light breezy summer gown to enjoy at the beach or on hot summers days.",
+      "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "status": "active",
+      "category": "womens clothing"
+    },
+    {
+      "id": 4,
+      "title": "White Light Summer Dress",
+      "price": 89.0,
+      "description": "Photo credit: Alejandro Morelos on Unsplash. A classy white light dress for going shopping or travelling around in summer heat.",
+      "image": "https://images.unsplash.com/photo-1574655563118-3e3eab32015d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "status": "active",
+      "category": "womens clothing"
+    },
+    {
+      "id": 5,
+      "title": "Gorgeous White Ruffled Top",
+      "price": 39.0,
+      "description": "Photo credit: Raamin ka on Unsplash. A fun playful top reminiscent of classical English wear.",
+      "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "status": "active",
+      "category": "womens clothing"
+    },
+    {
+      "id": 6,
+      "title": "Full Sleeve Short White Dress",
+      "price": 49.0,
+      "description": "Photo credit: YASU SHOTS on Unsplash. A dress for sophisticated ladies who enjoy admiration. A comfortable yet stylish classy dress with long sleeved.",
+      "image": "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "status": "active",
+      "category": "womens clothing"
+    },
+    {
+      "id": 7,
+      "title": "Diamond Heart Pendant",
+      "price": 249.0,
+      "description": "Photo credit: Sabrianna on Unsplash. Shine from all sparkling angles with this heart necklace.",
+      "image": "https://images.unsplash.com/photo-1588444837495-c6cfeb53f32d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": "active",
+      "category": "jewellery"
+    },
+    {
+      "id": 8,
+      "title": "Sapphire Heart White Gold Pendant",
+      "price": 4299.0,
+      "description": "Photo credit: Patty Zavala on Unsplash. This sapphire pendant looks simply charming. This white gold pendant exuberates unmatched class and elegance. A perfect gift that your loved one will completely adore.",
+      "image": "https://images.unsplash.com/photo-1610661022658-5068c4d8f286?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "status": "active",
+      "category": "jewellery"
+    },
+    {
+      "id": 9,
+      "title": "Pearl Bracelet in Sterling Silver With Diamond Rose",
+      "price": 139.0,
+      "description": "Photo credit: Cornelia Ng on Unsplash. These beautiful pearls and gorgeous diamond rose will impress at your next outing with the girls or on a special date night.",
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": "active",
+      "category": "jewellery"
+    },
+    {
+      "id": 10,
+      "title": "Beautiful Pendant with 1/4 Carat TW of Diamonds with 10kt White Gold",
+      "price": 829.0,
+      "description": "Photo credit: Sabrianna on Unsplash. This pendant offers a touch of effortless elegance. Spoil your loved one today.",
+      "image": "https://images.unsplash.com/photo-1598560917505-59a3ad559071?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "status": "active",
+      "category": "jewellery"
+    }
+  ]
+}
